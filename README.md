@@ -1,3 +1,6 @@
+# feaggle-ui
+feaggle frontend to interact with the application
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
